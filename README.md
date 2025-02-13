@@ -6,6 +6,10 @@ A WordPress plugin that displays a Google Map showing the shipping address on Wo
 
 This plugin adds a map block that automatically displays the shipping address location on WooCommerce order confirmation pages. Simply add the block to your order confirmation template and configure the API key.
 
+### Screenshot
+<img width="1398" alt="Screenshot 2025-02-13 at 09 59 55" src="https://github.com/user-attachments/assets/4018b923-e303-4908-ae6f-018c5b20332e" />
+
+
 ### Features
 - Automatically displays shipping address from WooCommerce orders
 - Configurable map height and zoom level
