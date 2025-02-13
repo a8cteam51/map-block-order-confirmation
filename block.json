@@ -1,0 +1,17 @@
+{
+	"name": "wc-order-map/map",
+	"title": "Order Confirmation Map",
+	"category": "widgets",
+	"icon": "location-alt",
+	"description": "Displays shipping address map on WooCommerce order confirmation pages",
+	"keywords": [ "map", "order", "shipping", "address" ],
+	"textdomain": "map-block-order-confirmation",
+	"editorScript": "file:./assets/js/editor.blocks.js",
+	"editorStyle": "file:./assets/css/blocks.editor.css",
+	"style": "file:./assets/css/blocks.style.css",
+	"supports": {
+		"align": true,
+		"html": false
+	},
+	"parent": ["woocommerce/checkout-confirmation-block"]
+}

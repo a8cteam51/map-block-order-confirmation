@@ -1,0 +1,23 @@
+.wp-block-wc-order-map-map {
+	margin: 1em 0;
+}
+
+.map-placeholder {
+	background: #f0f0f0;
+	border: 1px dashed #999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.map-placeholder-content {
+	color: #666;
+}
+
+.map-placeholder-content .dashicons {
+	font-size: 2em;
+	width: auto;
+	height: auto;
+	margin-bottom: 0.5em;
+} 
